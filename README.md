@@ -1,4 +1,4 @@
-Hi Everyone! Hope everyone is having a good Neurohackademy so long.
+Hi Everyone! Hope everyone is having a good Neurohackademy so far!
 
 # geometry 
 
