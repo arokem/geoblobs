@@ -1,6 +1,8 @@
+Hi Everyone! Hope everyone is having a good Neurohackademy so long.
+
 # geometry 
 
-A library of Python functions for geometrical calculations 
+A library of Python functions for geometrical calculations, etc.
 
 ## Modules in this library 
 
