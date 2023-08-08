@@ -34,7 +34,7 @@ def calculate_circ(r):
     Parameters
     ----------
     r : float or array
-        The radius of a single circle or multiple circles
+        The radius of a single circle or multiple circles.
 
     Returns
     -------
